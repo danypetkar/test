@@ -21,5 +21,5 @@ I'm a full stack developer...
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/danypetkar/test/blob/main/Rose-DRAWING.jpg)
 
